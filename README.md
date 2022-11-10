@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **narattam@webinnova.net**
+- 📫 How to reach me **narattam@quadranttech.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
